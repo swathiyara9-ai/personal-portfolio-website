@@ -11,7 +11,7 @@ This is my personal portfolio website created using HTML and CSS.
 
 ## Website Preview
 
-![Portfolio Screenshot](<screenshot(62).png>)
+![Portfolio Screenshot](Screenshot.png)
 
 ## Technologies Used
 
